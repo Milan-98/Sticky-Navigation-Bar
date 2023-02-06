@@ -1,0 +1,25 @@
+.logo{
+    height: 100px;
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    text-align: center;
+}
+.menu{
+    height: 50px;
+    background-color: aquamarine;
+    border-radius: 30px;
+    text-align: center;
+}
+.content{
+    height: 2000px;
+    background-color: darkolivegreen;
+    text-align: center;
+    border-radius: 30px;
+}
+.sticky
+{
+    position: fixed;
+    top: 0;
+    height: 50px;
+    width: 100vw;
+}
